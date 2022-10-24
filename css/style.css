@@ -6359,7 +6359,7 @@ a.close.disabled {
 }
 
 .bg-primaryimg {
-  background-image: url("https://github.com/gharwalakhana/gharwalakhana.github.io/blob/main/img/bgimg.jpg") !important;
+  background-image: url("bgimg.jpg") !important;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
