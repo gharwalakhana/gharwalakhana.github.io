@@ -6359,14 +6359,14 @@ a.close.disabled {
 }
 
 .bg-primaryimg {
-  background-image: url("file:///Users/deepan/Desktop/gharwalakhana.ca/gwk/img/bgimg.jpg") !important;
+  background-image: url("https://github.com/gharwalakhana/gharwalakhana.github.io/blob/main/img/bgimg.jpg") !important;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-primaryimgabout {
-  background-image: url("file:///Users/deepan/Desktop/gharwalakhana.ca/gwk/img/abc.jpg") !important;
+  background-image: url("https://github.com/gharwalakhana/gharwalakhana.github.io/blob/main/img/abc.jpg") !important;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
